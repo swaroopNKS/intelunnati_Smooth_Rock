@@ -1,0 +1,2 @@
+demonstration without openvino: https://youtu.be/_-ESQHc4GAI
+output without openvino: https://youtu.be/4zEx2O8Ib-E
