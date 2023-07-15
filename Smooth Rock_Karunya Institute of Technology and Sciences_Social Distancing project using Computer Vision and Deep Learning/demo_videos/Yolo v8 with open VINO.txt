@@ -1,2 +1,2 @@
-demonstration without openVINO: https://youtu.be/wPrlrlTj4vo
-output without openVINO: https://youtu.be/edj49m2oBzQ
+demonstration with openVINO: https://youtu.be/wPrlrlTj4vo
+output with openVINO: https://youtu.be/edj49m2oBzQ
